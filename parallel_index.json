@@ -1,15 +1,3 @@
-b = ['DisbursedAmount',
- 'MonthlyIncome',
- 'InternalRiskScore',
- 'VantageScore',
- 'FiCOScore',
- 'TotalCreditLines',
- 'ResidenceStatus',
- 'LoanPool',
- 'APR',
- 'LoanPurpose',
- 'Default']
-[
     {
         "name": "LoanAmount",
         "text": "LoanAmount",
