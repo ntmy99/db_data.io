@@ -1,0 +1,57 @@
+[
+    {
+        "name": "LoanAmount",
+        "text": "LoanAmount",
+        "index": 0
+    },
+    {
+        "name": "VantageScore",
+        "text": "VantageScore",
+        "index": 1
+    },
+    {
+        "name": "RiskScore",
+        "text": "RiskScore",
+        "index": 2
+    },
+    {
+        "name": "APR",
+        "text": "APR",
+        "index": 3
+    },
+    {
+        "name": "LoanPurpose",
+        "text": "LoanPurpose",
+        "index": 4
+    },
+    {
+        "name": "ResidenceStatus",
+        "text": "ResidenceStatus",
+        "index": 5
+    },
+    {
+        "name": "LoanPool",
+        "text": "LoanPool",
+        "index": 6
+    },
+    {
+        "name": "FICO",
+        "text": "FICO",
+        "index": 7
+    },
+    {
+        "name": "Income",
+        "text": "Income",
+        "index": 8
+    },
+    {
+        "name": "TotalCreditLines",
+        "text": "CreditLines",
+        "index": 9
+    },
+    {
+        "name": "Default",
+        "text": "Default",
+        "index": 10
+    }
+]
