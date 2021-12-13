@@ -1,0 +1,12 @@
+[
+    {
+        "name": "LoanAmount",
+        "text": "LoanAmount",
+        "index": 0
+    },
+    {
+        "name": "Default",
+        "text": "Default",
+        "index": 1
+    }
+]
